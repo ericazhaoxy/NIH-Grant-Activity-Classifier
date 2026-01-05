@@ -44,6 +44,10 @@ Benchmarked against: Decision Tree, MLP, Logistic Regression.
 - Add explainability (feature importance / SHAP)
 - Ship a minimal demo (Streamlit) and/or API (FastAPI)
 
+## Slides
+
+- [`slides/NIH_Grant_Activity_Classifier_Slides.pdf`](slides/NIH_Grant_Activity_Classifier_Slides.pdf)
+
 ## License
 
 MIT
