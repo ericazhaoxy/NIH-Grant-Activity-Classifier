@@ -53,6 +53,11 @@ Open and run: `NIH_Grant_Activity_Classifier.ipynb`
 - Add explainability (feature importance / SHAP)
 - Ship a minimal demo (Streamlit) and/or API (FastAPI)
 
+### Full dataset note
+
+This repository includes **sample CSVs** under `data/sample/`. Full processed datasets are excluded due to GitHub file size limits.  
+Full-data reproduction can be done by downloading NIH RePORTER exports (FY2018–FY2023) and running the notebook to regenerate splits locally.
+
 ## License
 
 MIT
