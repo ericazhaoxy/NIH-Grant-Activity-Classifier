@@ -209,3 +209,5 @@ __marimo__/
 # Data (not tracked)
 data/processed/
 data/raw/
+
+.venv/
